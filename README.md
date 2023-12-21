@@ -16,17 +16,17 @@ Math Labyrinth is a educational Desktop Game Application that focuses on improvi
 <br>
 
 ![MainMenu](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/922eb1d4-6820-4f83-85af-43878954970c)  
-<br>
+
 ![Tutorial2](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/66148c1a-f1bb-4b06-9537-c80899c26e25)  
-<br>
+
 ![Quest 2](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/69b97a48-2c23-4476-b6a6-6a2b1b4a2555)  
-<br>
+
 ![Pause](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/1317b8ee-7318-4caa-b43d-6ba56e60e5b9)
-<br>
+
 ![Dungeon](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/c0394a16-6aa5-4d38-9d29-6c9dbd284d5c)
-<br>
+
 ![Combat](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/0f9d0a7a-3c88-4b5a-b271-339fff1e1a1c)
-<br>
+
 ![Quest](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/e108fd58-f3a2-4494-a40d-ed34810245c6)
 <br>
 
