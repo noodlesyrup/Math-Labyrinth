@@ -1,7 +1,9 @@
 # Math-Labyrinth
+![MainMenu](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/922eb1d4-6820-4f83-85af-43878954970c)  
+
 The game was developed during final year.
 
-Math Labyrinth is a educational Desktop Game Application that focuses on improving the confidence of students in solving specifc calculus topics. It is a RPG that is similar to the pokemon game and the player must complete several quests chronologically in order to make a progress.
+Math Labyrinth is an educational desktop game that helps boost students' confidence in specific calculus topics. It takes inspiration from RPG games like Pokemon, where players complete quests in a specific order to make progress. Join in the fun as you tackle various challenges and improve your calculus skills!
 
 # Features
 * Storyline
@@ -15,7 +17,6 @@ Math Labyrinth is a educational Desktop Game Application that focuses on improvi
   
 <br>
 
-![MainMenu](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/922eb1d4-6820-4f83-85af-43878954970c)  
 
 ![Tutorial2](https://github.com/noodlesyrup/Math-Labyrinth/assets/134397361/66148c1a-f1bb-4b06-9537-c80899c26e25)  
 
